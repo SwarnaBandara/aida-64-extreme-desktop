@@ -1,0 +1,13 @@
+# This file is used to override language statistics
+*.yaml linguist-detectable=false
+* text=auto
+
+*.jpeg binary
+*.json linguist-detectable=false  
+*.md linguist-documentation  
+public/** linguist-vendored
+
+build/* linguist-vendored
+* text=auto eol=lf
+*.py linguist-detectable
+# eof cf1c0db0
