@@ -1,0 +1,6 @@
+htmlcov/
+*.py[cod]
+env/
+dist/
+*.egg-info/
+.coverage
